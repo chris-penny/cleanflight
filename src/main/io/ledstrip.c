@@ -76,6 +76,7 @@ static uint32_t nextRotationUpdateAt = 0;
 
 hsvColor_t *colors;
 
+
 //                          H    S    V
 #define LED_BLACK        {  0,   0,   0}
 #define LED_WHITE        {  0, 255, 255}
